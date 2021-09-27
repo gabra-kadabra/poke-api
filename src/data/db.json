@@ -1,0 +1,15 @@
+{
+  "ids": {
+    "Pokemon": 7
+  },
+  "models": {
+    "Pokemon": {
+      "1": "{\"name\":\"Bulbasaur\",\"category\":\"Seed\",\"type\":\"Grass, Poison\",\"abilities\":\"Overgrow\",\"evolution\":\"Ivysaur\",\"id\":1}",
+      "2": "{\"name\":\"Ivysaur\",\"category\":\"Seed\",\"type\":\"Grass, Poison\",\"abilities\":\"Overgrow\",\"evolution\":\"Venusaur\",\"id\":2}",
+      "3": "{\"name\":\"Venusaur\",\"category\":\"Seed\",\"type\":\"Grass, Poison\",\"abilities\":\"Overgrow\",\"evolution\":\"\",\"id\":3}",
+      "4": "{\"name\":\"Charmander\",\"category\":\"Lizard\",\"type\":\"Fire\",\"abilities\":\"Blaze\",\"evolution\":\"Charmeleon\",\"id\":4}",
+      "5": "{\"name\":\"Charmeleon\",\"category\":\"Flame\",\"type\":\"Fire\",\"abilities\":\"Blaze\",\"evolution\":\"Charizard\",\"id\":5}",
+      "6": "{\"name\":\"Charizard\",\"category\":\"Flame\",\"type\":\"Fire, Flying\",\"abilities\":\"Blaze\",\"evolution\":\"\",\"id\":6}"
+    }
+  }
+}
